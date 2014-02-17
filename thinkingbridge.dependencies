@@ -1,8 +1,8 @@
 [
     {
         "remote":      "github",
-        "repository":   "ThinkingBridge/platform_device_lge_e975",
-        "target_path":  "device/lge/e975",
+        "repository":   "ThinkingBridge/platform_device_lge_gproj-common",
+        "target_path":  "device/lge/gproj-common",
         "revision":     "kitkat"
     },
     {
